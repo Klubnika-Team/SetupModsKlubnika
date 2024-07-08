@@ -1,2 +1,4 @@
-# SetupModsKlubnika
-Содержит релиз установщика сборки модов на оптимизация для проекта серверов "Клубника"
+<p align="center"><img src="./resources/icon.png" width="200px" height="200px"></p>
+<h1 align="center">SetupModsKlubnika</h1>
+
+Здесь содержится релиз программы установщика сборки модов.
